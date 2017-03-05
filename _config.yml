@@ -2,8 +2,8 @@
 title: Imperium Production
 timezone: UTC
 collections:
-  gallerie:
-    title: Gallerie
+  photos:
+    title: Photos
     output: true
   posts:
     title: Posts
