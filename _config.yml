@@ -33,12 +33,12 @@ defaults:
   values:
     layout: page
 permalink: pretty
-slider-titre:
-slider-sous-titre:
-coming-soon-background-image:
-facebook-lien:
-twitter-lien:
-instagram-lien:
-footer-text:
-phone:
-email:
+slider-titre: 
+slider-sous-titre: 
+coming-soon-background-image: 
+facebook-lien: 
+twitter-lien: 
+instagram-lien: 
+footer-text: 
+phone: 
+email: 
