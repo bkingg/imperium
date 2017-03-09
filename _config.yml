@@ -1,6 +1,6 @@
 ---
 title: Imperium Production
-timezone: UTC
+timezone: Europe/Paris
 collections:
   artistes:
     title: Artistes
@@ -33,12 +33,12 @@ defaults:
   values:
     layout: page
 permalink: pretty
-slider-titre: 
-slider-sous-titre: 
-coming-soon-background-image: 
-facebook-lien: 
-twitter-lien: 
-instagram-lien: 
-footer-text: 
-phone: 
-email: 
+slider-titre: Imperium prod arrive bientot...
+slider-sous-titre: Production de Musique, Videos
+coming-soon-background-image: "/uploads/6211631cc5efb244d31e204f6ffc91d7_accueil-studio_1500-999.jpeg"
+facebook-lien: https://www.facebook.com/
+twitter-lien: https://www.twitter.com/
+instagram-lien: https://www.instagram.com/
+footer-text: texte de bas de page
+phone: 44449553935
+email: test@email.com
