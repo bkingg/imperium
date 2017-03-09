@@ -5,6 +5,9 @@ collections:
   artistes:
     title: Artistes
     output: true
+  menus:
+    title: Menus
+    output: true
   mixtapes:
     title: Mixtapes
     output: true
